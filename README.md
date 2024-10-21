@@ -4,7 +4,7 @@
 
 🌐 Sobre mí
 
-Soy William Padilla, administrador de sistemas especializado en Linux 🐧. Me apasiona la seguridad informática, la automatización de servidores y la optimización de sistemas. Utilizo Bash y crontab para automatizar tareas críticas, y envío notificaciones directamente a Telegram 📲 para mantener un control total de los sistemas que gestiono.
+<p align="justify"> Soy William Padilla, administrador de sistemas especializado en Linux 🐧. Me apasiona la seguridad informática, la automatización de servidores y la optimización de sistemas. Utilizo Bash y crontab para automatizar tareas críticas, y envío notificaciones directamente a Telegram 📲 para mantener un control total de los sistemas que gestiono.</p>
 
 🔧 Habilidades y Herramientas
 
@@ -14,16 +14,18 @@ Soy William Padilla, administrador de sistemas especializado en Linux 🐧. Me a
     Notificaciones: Envío de mensajes automatizados a Telegram
     Monitorización: En proceso
 
-📊 Mis estadísticas de GitHub
-
 🔥 Lenguajes más utilizados
+<ul>C</ul>
+<ul>PHP</ul>
+<ul>Python</ul>
+<ul>Nodejs</ul>
 
 📫 Cómo contactarme:
 
     LinkedIn: William Padilla
     Correo: willipadilla@proton.me
 
-<p align="center"> "No hay mejor lugar para un servidor que bajo el control de Linux." - William Padilla <br>"l software es como el sexo: es mejor cuando es libre"- Linus Torvalds</p> ```
+<p align="center"> "No hay mejor lugar para un servidor que bajo el control de Linux." - William Padilla <br>"El software es como el sexo: es mejor cuando es libre"- Linus Torvalds</p> ```
 Personalización:
 
     Automatización con Bash y crontab: He añadido "Automatización con Bash, crontab" y "Envío de mensajes a Telegram" en la sección de habilidades.
