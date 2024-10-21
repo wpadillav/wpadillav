@@ -15,10 +15,10 @@
     Monitorización: En proceso
 
 🔥 Lenguajes más utilizados
-<ul>C</ul>
-<ul>PHP</ul>
-<ul>Python</ul>
-<ul>Nodejs</ul>
+<ul>
+    <li>C++</li>
+    <li>Python</li>
+</ul>
 
 📫 Cómo contactarme:
 
