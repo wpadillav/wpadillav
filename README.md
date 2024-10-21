@@ -1,4 +1,4 @@
-<h1 align="center"><img src="ascii-art.png?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></h1>
+<h1 align="center"><img src="photo.png?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></h1>
 
 <p align="center"> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white" alt="Debian"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"> </p>
 
