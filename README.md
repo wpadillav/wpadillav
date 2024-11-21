@@ -4,20 +4,34 @@
 
 🌐 Sobre mí
 
-<p align="justify"> Soy William Padilla, administrador de sistemas especializado en Linux 🐧. Me apasiona la seguridad informática, la automatización de servidores y la optimización de sistemas. Utilizo Bash y crontab para automatizar tareas críticas, y envío notificaciones directamente a Telegram 📲 para mantener un control total de los sistemas que gestiono.</p>
+<p align="justify"> Soy William Padilla, administrador de sistemas especializado en Linux 🐧. Me apasiona la seguridad informática, la automatización de servidores y la optimización de sistemas. Utilizo Bash script y crontab para automatizar tareas críticas, y envío notificaciones directamente a Telegram 📲 para mantener un control total de los sistemas que gestiono.</p>
 
 ## 🔧 Habilidades y Herramientas
 
-- **Administración de Servidores**: Apache, Nginx, MySQL, Suricata, UFW, Cloudflare
+- **Administración de Servidores**: Apache, Nginx, MySQL/MariaDB, Suricata, UFW, Cloudflare, OpenSSL (gestión de certificados)
 - **Scripting**: Bash, Node.js, Python, PHP
-- **Automatización**: Bash, crontab, Docker
-- **Notificaciones**: Envío de mensajes automatizados a Telegram
-- **Seguridad**: Suricata (detección de intrusiones), UFW (firewall), Cloudflare (protección DDoS y seguridad web)
-- **Monitorización**: En proceso
+- **Automatización**: Bash script, crontab, Docker, Ansible (automatización avanzada de infraestructura)
+- **Notificaciones**: Envío de mensajes automatizados a Telegram, SMS y Mail
+- **Seguridad**:  
+  - Suricata (detección de intrusiones)  
+  - UFW (firewall)  
+  - Cloudflare (protección DDoS y seguridad web)  
+  - ModSecurity (WAF para Apache)  
+  - Fail2Ban (protección contra ataques de fuerza bruta)  
+  - ClamAV (Antimalware)  
+  - Tripwire (integridad de archivos críticos)  
+  - Let's Encrypt (SSL gratuito y renovaciones automáticas)  
+- **Monitorización**:  
+  - Logwatch (resúmenes diarios de logs)  
+  - Grafana y Prometheus (visualización de métricas y alertas)  
+  - Zabbix (monitorización de infraestructura en tiempo real)  
+  - Nagios (monitoreo de servicios y recursos del servidor)  
+- **Despliegue**: Git, CI/CD con GitLab o GitHub Actions
 
 🔥 Lenguajes más utilizados
 <ul>
     <li>C++</li>
+    <li>PHP</li>
     <li>Nodejs</li>
     <li>Python</li>
 </ul>
